@@ -1,7 +1,7 @@
-# 🩺 My Health Buddy+  
+# 🩺 Ensure Life   
 > *Your Local, Private, Voice-Enabled Healthcare Assistant with RAG*
 
-**Developer**: Pugazhmani.K  
+**Developer**: Vikram .P  
 **License**: MIT License (see [License](#license))  
 **Status**: ✅ Production Ready — Runs 100% Offline  
 **Last Updated**: May 2025
@@ -102,6 +102,7 @@ ollama pull llama3:8b-instruct-q4_K_M
 
 ### Step 5: Add Medical PDFs
 Create a `data/` folder and place your trusted medical PDFs inside:
+suggested PDF LINK (https://staibabussalamsula.ac.id/wp-content/uploads/2024/06/The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf/)
 ```bash
 mkdir data
 # Example:
@@ -182,7 +183,7 @@ ollama pull llama3:8b-instruct-q2_K
 ## 📜 License: MIT License
 
 ```
-Copyright (c) 2025 Pugazhmani.K
+Copyright (c) 2025 Vikram .P
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -207,7 +208,7 @@ SOFTWARE.
 
 ## 🙏 Credits
 
-- Developer: **Pugazhmani.K**  
+- Developer: **Vikram .P**  
 - LLM: **Meta Llama 3 via Ollama**  
 - Embeddings: `sentence-transformers/all-MiniLM-L6-v2`  
 - Vector DB: **ChromaDB**  
@@ -220,13 +221,14 @@ SOFTWARE.
 ## 💬 Support
 
 Found a bug? Want a new feature?  
-→ Open an issue or contact **Pugazhmani.K** directly.  
+→ Open an issue or contact **Vikram  .P** directly.  
 
 ---
 
 🚀 **You’re All Set!**  
 Run. Ask. Listen. Stay healthy — privately and locally.  
 
-🩺 **My Health Buddy+** — because your health deserves privacy, accuracy, and care.  
+🩺 **Ensure Life** — because your health deserves privacy, accuracy, and care.  
 
-> “The best healthcare is personalized, private, and powered by you.” — *Pugazhmani.K*  
+> “The best healthcare is personalized, private, and powered by you.” — *Vikram .P*  
+
