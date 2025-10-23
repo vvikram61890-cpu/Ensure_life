@@ -102,7 +102,7 @@ ollama pull llama3:8b-instruct-q4_K_M
 
 ### Step 5: Add Medical PDFs
 Create a `data/` folder and place your trusted medical PDFs inside:
-suggested PDF LINK (https://staibabussalamsula.ac.id/wp-content/uploads/2024/06/The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf/)
+suggested PDF [LINK](https://staibabussalamsula.ac.id/wp-content/uploads/2024/06/The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf/)
 ```bash
 mkdir data
 # Example:
@@ -231,4 +231,5 @@ Run. Ask. Listen. Stay healthy — privately and locally.
 🩺 **Ensure Life** — because your health deserves privacy, accuracy, and care.  
 
 > “The best healthcare is personalized, private, and powered by you.” — *Vikram .P*  
+
 
